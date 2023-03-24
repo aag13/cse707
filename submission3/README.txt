@@ -2,9 +2,9 @@ Link to unlisted YouTube video:
 https://youtu.be/HVwHHs4KL9Y
 
 Two public links to the Concept Map:
-PDF: 
+PDF: https://github.com/aag13/cse707/blob/main/submission3/spring_2023_cse707_concept_map.pdf
 
-Native/original format: 
+Native/original format: https://github.com/aag13/cse707/blob/main/submission3/spring_2023_cse707_concept_map.drawio.xml
 
 
 Name, Author, Edition, year, and publisher of the Book:
