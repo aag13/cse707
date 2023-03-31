@@ -7,6 +7,9 @@ Unlisted YouTube video:
 Paper title:
 Large Scale Web Crawling and Distributed Search Engines: Techniques, Challenges, Current Trends, and Future Prospects
 
+Paper (1st draft):
+
+
 Group Number:
 12
 
