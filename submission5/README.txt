@@ -8,7 +8,7 @@ Paper title:
 Large Scale Web Crawling and Distributed Search Engines: Techniques, Challenges, Current Trends, and Future Prospects
 
 Paper (2nd draft):
-
+https://github.com/aag13/cse707/blob/main/submission5/2023_Spring_Large_Scale_Web_Crawling_and_Distributed_Search_Engines__Techniques__Challenges__Current_Trends__and_Future_Prospects_draft_2.pdf
 
 Group Number:
 12
