@@ -2,7 +2,7 @@ Overleaf link:
 https://www.overleaf.com/project/641581da238908944ee01bc4
 
 Unlisted YouTube video:
-http://youtube....
+https://youtu.be/SCdQQZjabsY
 
 Conference submitted paper / paper submission / login Link:
 https://easy....
@@ -11,7 +11,7 @@ Paper title:
 Large Scale Web Crawling and Distributed Search Engines: Techniques, Challenges, Current Trends, and Future Prospects
 
 Paper presentation:
-http://slides.google.com/
+https://docs.google.com/presentation/d/1oE_hrFuNQWBl4suuip27I-aDcqsS4jWr/edit?usp=sharing&ouid=114439381625049727393&rtpof=true&sd=true
 
 Paper submission date (to workshop/conference):
 29 April 2023
@@ -20,10 +20,10 @@ Paper submission ID: (received) from conference/workshop
 1341234
 
 Conference Name:
-...
+9th International Conference on Computing and Informatics (ICOCI 2023)
 
 Conference URL:
-http://confsite/...
+https://soc.uum.edu.my/icoci/2023/
 
 Group Number:
 12
