@@ -17,10 +17,10 @@ Paper presentation:
 https://docs.google.com/presentation/d/1oE_hrFuNQWBl4suuip27I-aDcqsS4jWr/edit?usp=sharing&ouid=114439381625049727393&rtpof=true&sd=true
 
 Final Submitted paper:
-
+https://github.com/aag13/cse707/blob/main/submission6/ICOCI2023_submission_CSE707_paper_with_affiliation_team_12.docx.pdf
 
 Receipt email pdf:
-
+https://github.com/aag13/cse707/blob/main/submission6/Receipt%20email%20-%20ICOCI%20-%20New%20Paper%20Submission%20-%20CSE707%20-%20Team%2012.pdf
 
 Paper submission date (to workshop/conference):
 30 April 2023
